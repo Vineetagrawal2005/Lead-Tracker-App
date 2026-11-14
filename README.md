@@ -97,16 +97,25 @@ flutter analyze
 - **Tests:** Basic validator and login-form widget tests included; more coverage (provider integration with Hive, full widget flows) can be added.
 
 ## Demo Script
-<img width="1080" height="2400" alt="WhatsApp Image 2026-11-14 at 6 42 42 PM" src="https://github.com/user-attachments/assets/cdf3c7ce-d9c1-4db1-b794-ca0717eb3051" />
-<img width="1080" height="2400" alt="WhatsApp Image 2026-11-14 at 6 42 42 PM (1)" src="https://github.com/user-attachments/assets/de1073a8-cc1e-433b-979b-656eac7cb1b9" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-14 at 6 42 41 PM" src="https://github.com/user-attachments/assets/fdf0cc87-62f1-4613-839d-c3132ddde84b" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-14 at 6 42 41 PM (2)" src="https://github.com/user-attachments/assets/715a94f6-cddd-4bda-8547-a5d922fae539" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-14 at 6 42 41 PM (1)" src="https://github.com/user-attachments/assets/a51fd06b-69f9-44ce-b20d-f3231fdb49d9" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-14 at 6 42 40 PM" src="https://github.com/user-attachments/assets/0810f266-efaa-4e53-8dc6-e4592cf31488" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-14 at 6 42 40 PM (3)" src="https://github.com/user-attachments/assets/9e8437a3-4f9c-47d1-a1b4-65be61b9be1d" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-14 at 6 42 40 PM (2)" src="https://github.com/user-attachments/assets/e657c5ed-e929-4b07-a2f8-517892b52420" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-14 at 6 42 40 PM (1)" src="https://github.com/user-attachments/assets/6d1a7628-be36-401a-ab57-ca628ca277db" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-11-14 at 6 42 39 PM" src="https://github.com/user-attachments/assets/a07d3ae0-1bd0-4204-bd48-cd005bcd9be0" />
-<img width="1080" height="2400" alt="WhatsApp Image 2026-11-14 at 6 42 39 PM (2)" src="https://github.com/user-attachments/assets/33d4568c-b4e2-4b0f-af65-e544d65ed86e" />
-<img width="1080" height="2400" alt="WhatsApp Image 2026-11-14 at 6 42 39 PM (1)" src="https://github.com/user-attachments/assets/779c5a67-4dfe-4dca-aa33-1c7256a11b4c" />
+## Screenshots
 
+<table>
+  <tr>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/cdf3c7ce-d9c1-4db1-b794-ca0717eb3051" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/de1073a8-cc1e-433b-979b-656eac7cb1b9" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/fdf0cc87-62f1-4613-839d-c3132ddde84b" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/715a94f6-cddd-4bda-8547-a5d922fae539" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/a51fd06b-69f9-44ce-b20d-f3231fdb49d9" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/0810f266-efaa-4e53-8dc6-e4592cf31488" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/9e8437a3-4f9c-47d1-a1b4-65be61b9be1d" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/e657c5ed-e929-4b07-a2f8-517892b52420" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/6d1a7628-be36-401a-ab57-ca628ca277db" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/a07d3ae0-1bd0-4204-bd48-cd005bcd9be0" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/33d4568c-b4e2-4b0f-af65-e544d65ed86e" width="100%"></td>
+    <td width="25%"><img src="https://github.com/user-attachments/assets/779c5a67-4dfe-4dca-aa33-1c7256a11b4c" width="100%"></td>
+  </tr>
+</table>
